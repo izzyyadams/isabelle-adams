@@ -76,6 +76,16 @@ h1 {
     object-fit: cover;
 }
 
+#me {
+    object-position: center 1px;
+}
+
+#marketSproutHome{
+    transform: scale(1.4);
+    object-fit: cover;
+    object-position: 40% center;
+}
+
 .projects {
     padding: 5vh 5vw;
     width: 100%;
